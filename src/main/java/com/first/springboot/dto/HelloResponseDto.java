@@ -1,4 +1,4 @@
-package com.first.springboot.web.dto;
+package com.first.springboot.dto;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

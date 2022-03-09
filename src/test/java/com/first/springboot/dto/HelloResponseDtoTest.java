@@ -1,6 +1,5 @@
 package com.first.springboot.dto;
 
-import com.first.springboot.web.dto.HelloResponseDto;
 import static org.assertj.core.api.Assertions.assertThat;
 import org.junit.jupiter.api.Test;
 
