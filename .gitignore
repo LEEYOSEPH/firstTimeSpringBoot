@@ -3,7 +3,7 @@
 .idea
 **/build/
 !src/**/build/
-application-oauth.properties
+git commit -m "fixed untracked files"
 
 # Ignore Gradle GUI config
 gradle-app.setting
