@@ -3,6 +3,7 @@
 .idea
 **/build/
 !src/**/build/
+application-oauth.properties
 
 # Ignore Gradle GUI config
 gradle-app.setting
