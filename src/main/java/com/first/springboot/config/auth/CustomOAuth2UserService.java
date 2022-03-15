@@ -2,8 +2,8 @@ package com.first.springboot.config.auth;
 
 import com.first.springboot.domain.user.User;
 import com.first.springboot.domain.user.UserRepository;
-import com.first.springboot.dto.OAuthAttributes;
-import com.first.springboot.dto.SessionUser;
+import com.first.springboot.config.auth.dto.OAuthAttributes;
+import com.first.springboot.config.auth.dto.SessionUser;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.oauth2.client.userinfo.DefaultOAuth2UserService;
